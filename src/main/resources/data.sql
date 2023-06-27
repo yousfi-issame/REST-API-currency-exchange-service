@@ -9,4 +9,4 @@ insert into currency_exchange
 values(45,10003,'EUR','DZD','');
 insert into currency_exchange
 (conversion_multiple,id,currency_from,currency_to,environment)
-values(15,10004,'EUR','DZD','');
+values(15,10004,'EUR','USD','');
